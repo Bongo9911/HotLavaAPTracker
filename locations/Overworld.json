@@ -1,0 +1,1469 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Intro",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Intro - Complete the Intro.",
+                        "ref": "Intro/Complete the Intro."
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 99999,
+                        "y": 99999
+                    }
+                ]
+            },
+            {
+                "name": "Gym Class",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gym Jam - Complete the course",
+                        "ref": "Gym Class/Gym Jam/Complete the course"
+                    },
+                    {
+                        "name": "Gym Jam - Complete in under 0800",
+                        "ref": "Gym Class/Gym Jam/Complete in under 0800"
+                    },
+                    {
+                        "name": "Gym Jam - Complete in under 0210",
+                        "ref": "Gym Class/Gym Jam/Complete in under 0210"
+                    },
+                    {
+                        "name": "Gym Jam - Reach a speed of 9",
+                        "ref": "Gym Class/Gym Jam/Reach a speed of 9"
+                    },
+                    {
+                        "name": "Gym Jam - No Deaths",
+                        "ref": "Gym Class/Gym Jam/No Deaths"
+                    },
+                    {
+                        "name": "Gym Jam - Grab the golden pin",
+                        "ref": "Gym Class/Gym Jam/Grab the golden pin"
+                    },
+                    {
+                        "name": "Gym Jam - Buddy Mode",
+                        "ref": "Gym Class/Buddy Mode/Gym Jam"
+                    },
+                    {
+                        "name": "Trampoline Trouble - Complete the course",
+                        "ref": "Gym Class/Trampoline Trouble/Complete the course"
+                    },
+                    {
+                        "name": "Trampoline Trouble - Complete in under 0230",
+                        "ref": "Gym Class/Trampoline Trouble/Complete in under 0230"
+                    },
+                    {
+                        "name": "Trampoline Trouble - Complete in under 0100",
+                        "ref": "Gym Class/Trampoline Trouble/Complete in under 0100"
+                    },
+                    {
+                        "name": "Trampoline Trouble - Dont perform any swings",
+                        "ref": "Gym Class/Trampoline Trouble/Dont perform any swings"
+                    },
+                    {
+                        "name": "Trampoline Trouble - No Deaths",
+                        "ref": "Gym Class/Trampoline Trouble/No Deaths"
+                    },
+                    {
+                        "name": "Trampoline Trouble - Grab the golden pin",
+                        "ref": "Gym Class/Trampoline Trouble/Grab the golden pin"
+                    },
+                    {
+                        "name": "Trampoline Trouble - Buddy Mode",
+                        "ref": "Gym Class/Buddy Mode/Trampoline Trouble"
+                    },
+                    {
+                        "name": "Livin on the Ledge - Complete the course",
+                        "ref": "Gym Class/Livin on the Ledge/Complete the course"
+                    },
+                    {
+                        "name": "Livin on the Ledge - Complete in under 0200",
+                        "ref": "Gym Class/Livin on the Ledge/Complete in under 0200"
+                    },
+                    {
+                        "name": "Livin on the Ledge - Complete in under 0055",
+                        "ref": "Gym Class/Livin on the Ledge/Complete in under 0055"
+                    },
+                    {
+                        "name": "Livin on the Ledge - Spend less than 25 seconds on the ground",
+                        "ref": "Gym Class/Livin on the Ledge/Spend less than 25 seconds on the ground"
+                    },
+                    {
+                        "name": "Livin on the Ledge - No Deaths",
+                        "ref": "Gym Class/Livin on the Ledge/No Deaths"
+                    },
+                    {
+                        "name": "Livin on the Ledge - Grab the golden pin",
+                        "ref": "Gym Class/Livin on the Ledge/Grab the golden pin"
+                    },
+                    {
+                        "name": "Livin on the Ledge - Buddy Mode",
+                        "ref": "Gym Class/Buddy Mode/Livin on the Ledge"
+                    },
+                    {
+                        "name": "Surfing Surfaces - Complete the course",
+                        "ref": "Gym Class/Surfing Surfaces/Complete the course"
+                    },
+                    {
+                        "name": "Surfing Surfaces - Complete in under 0150",
+                        "ref": "Gym Class/Surfing Surfaces/Complete in under 0150"
+                    },
+                    {
+                        "name": "Surfing Surfaces - Complete in under 0050",
+                        "ref": "Gym Class/Surfing Surfaces/Complete in under 0050"
+                    },
+                    {
+                        "name": "Surfing Surfaces - Reach a speed of 10.5",
+                        "ref": "Gym Class/Surfing Surfaces/Reach a speed of 10.5"
+                    },
+                    {
+                        "name": "Surfing Surfaces - No Deaths",
+                        "ref": "Gym Class/Surfing Surfaces/No Deaths"
+                    },
+                    {
+                        "name": "Surfing Surfaces - Grab the golden pin",
+                        "ref": "Gym Class/Surfing Surfaces/Grab the golden pin"
+                    },
+                    {
+                        "name": "Surfing Surfaces - Buddy Mode",
+                        "ref": "Gym Class/Buddy Mode/Surfing Surfaces"
+                    },
+                    {
+                        "name": "Pole Vault - Complete the course",
+                        "ref": "Gym Class/Pole Vault/Complete the course"
+                    },
+                    {
+                        "name": "Pole Vault - Complete in under 0230",
+                        "ref": "Gym Class/Pole Vault/Complete in under 0230"
+                    },
+                    {
+                        "name": "Pole Vault - Complete in under 0110",
+                        "ref": "Gym Class/Pole Vault/Complete in under 0110"
+                    },
+                    {
+                        "name": "Pole Vault - Spend less than 30 seconds on the ground",
+                        "ref": "Gym Class/Pole Vault/Spend less than 30 seconds on the ground"
+                    },
+                    {
+                        "name": "Pole Vault - No Deaths",
+                        "ref": "Gym Class/Pole Vault/No Deaths"
+                    },
+                    {
+                        "name": "Pole Vault - Grab the golden pin",
+                        "ref": "Gym Class/Pole Vault/Grab the golden pin"
+                    },
+                    {
+                        "name": "Pole Vault - Buddy Mode",
+                        "ref": "Gym Class/Buddy Mode/Pole Vault"
+                    },
+                    {
+                        "name": "Chase Your Sister - Complete the course",
+                        "ref": "Gym Class/Chase Your Sister/Complete the course"
+                    },
+                    {
+                        "name": "Chase Your Sister - Complete in under 0110",
+                        "ref": "Gym Class/Chase Your Sister/Complete in under 0110"
+                    },
+                    {
+                        "name": "Chase Your Sister - Complete in under 0045",
+                        "ref": "Gym Class/Chase Your Sister/Complete in under 0045"
+                    },
+                    {
+                        "name": "Chase Your Sister - Dont perform any swings",
+                        "ref": "Gym Class/Chase Your Sister/Dont perform any swings"
+                    },
+                    {
+                        "name": "Chase Your Sister - Tag your sister",
+                        "ref": "Gym Class/Chase Your Sister/Tag your sister"
+                    },
+                    {
+                        "name": "Chase Your Sister - Grab the golden pin",
+                        "ref": "Gym Class/Chase Your Sister/Grab the golden pin"
+                    },
+                    {
+                        "name": "Chase Your Sister - Wild Buddy Chase",
+                        "ref": "Gym Class/Buddy Mode/Wild Buddy Chase"
+                    },
+                    {
+                        "name": "Pogo Trial - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Gym Class/Pogo Trial/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial - Get to the finish line",
+                        "ref": "Gym Class/Tiny Toy Trial/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "Gym Class/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "Gym Class/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 175,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Playground",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recess - Complete the course",
+                        "ref": "Playground/Recess/Complete the course"
+                    },
+                    {
+                        "name": "Recess - Complete in under 0700",
+                        "ref": "Playground/Recess/Complete in under 0700"
+                    },
+                    {
+                        "name": "Recess - Complete in under 0210",
+                        "ref": "Playground/Recess/Complete in under 0210"
+                    },
+                    {
+                        "name": "Recess - No Deaths",
+                        "ref": "Playground/Recess/No Deaths"
+                    },
+                    {
+                        "name": "Recess - Grab the golden pin",
+                        "ref": "Playground/Recess/Grab the golden pin"
+                    },
+                    {
+                        "name": "Recess - Find the hidden G.A.T. comic",
+                        "ref": "Playground/Recess/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Recess - Buddy Mode",
+                        "ref": "Playground/Buddy Mode/Recess"
+                    },
+                    {
+                        "name": "Big Kids Side - Complete the course",
+                        "ref": "Playground/Big Kids Side/Complete the course"
+                    },
+                    {
+                        "name": "Big Kids Side - Complete in under 0800",
+                        "ref": "Playground/Big Kids Side/Complete in under 0800"
+                    },
+                    {
+                        "name": "Big Kids Side - Complete in under 0245",
+                        "ref": "Playground/Big Kids Side/Complete in under 0245"
+                    },
+                    {
+                        "name": "Big Kids Side - No Deaths",
+                        "ref": "Playground/Big Kids Side/No Deaths"
+                    },
+                    {
+                        "name": "Big Kids Side - Grab the golden pin",
+                        "ref": "Playground/Big Kids Side/Grab the golden pin"
+                    },
+                    {
+                        "name": "Big Kids Side - Find the hidden G.A.T. comic",
+                        "ref": "Playground/Big Kids Side/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Big Kids Side - Buddy Mode",
+                        "ref": "Playground/Buddy Mode/Big Kids Side"
+                    },
+                    {
+                        "name": "Bouncy Castle - Complete the course",
+                        "ref": "Playground/Bouncy Castle/Complete the course"
+                    },
+                    {
+                        "name": "Bouncy Castle - Complete in under 0430",
+                        "ref": "Playground/Bouncy Castle/Complete in under 0430"
+                    },
+                    {
+                        "name": "Bouncy Castle - Complete in under 0145",
+                        "ref": "Playground/Bouncy Castle/Complete in under 0145"
+                    },
+                    {
+                        "name": "Bouncy Castle - No Deaths",
+                        "ref": "Playground/Bouncy Castle/No Deaths"
+                    },
+                    {
+                        "name": "Bouncy Castle - Grab the golden pin",
+                        "ref": "Playground/Bouncy Castle/Grab the golden pin"
+                    },
+                    {
+                        "name": "Bouncy Castle - Find the hidden G.A.T. comic",
+                        "ref": "Playground/Bouncy Castle/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Bouncy Castle - Buddy Mode",
+                        "ref": "Playground/Buddy Mode/Bouncy Castle"
+                    },
+                    {
+                        "name": "Back to Class - Complete the course",
+                        "ref": "Playground/Back to Class/Complete the course"
+                    },
+                    {
+                        "name": "Back to Class - Complete in under 0600",
+                        "ref": "Playground/Back to Class/Complete in under 0600"
+                    },
+                    {
+                        "name": "Back to Class - Complete in under 0145",
+                        "ref": "Playground/Back to Class/Complete in under 0145"
+                    },
+                    {
+                        "name": "Back to Class - No Deaths",
+                        "ref": "Playground/Back to Class/No Deaths"
+                    },
+                    {
+                        "name": "Back to Class - Grab the golden pin",
+                        "ref": "Playground/Back to Class/Grab the golden pin"
+                    },
+                    {
+                        "name": "Back to Class - Find the hidden G.A.T. comic",
+                        "ref": "Playground/Back to Class/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Back to Class - Buddy Mode",
+                        "ref": "Playground/Buddy Mode/Back to Class"
+                    },
+                    {
+                        "name": "Sports Day - Complete the course",
+                        "ref": "Playground/Sports Day/Complete the course"
+                    },
+                    {
+                        "name": "Sports Day - Complete in under 0140",
+                        "ref": "Playground/Sports Day/Complete in under 0140"
+                    },
+                    {
+                        "name": "Sports Day - Complete in under 0110",
+                        "ref": "Playground/Sports Day/Complete in under 0110"
+                    },
+                    {
+                        "name": "Sports Day - No Deaths",
+                        "ref": "Playground/Sports Day/No Deaths"
+                    },
+                    {
+                        "name": "Sports Day - Grab the golden pin",
+                        "ref": "Playground/Sports Day/Grab the golden pin"
+                    },
+                    {
+                        "name": "Sports Day - Find the hidden G.A.T. comic",
+                        "ref": "Playground/Sports Day/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Sports Day - Buddy Mode",
+                        "ref": "Playground/Buddy Mode/Sports Day"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Complete the course",
+                        "ref": "Playground/Chase the Big Kid/Complete the course"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Complete in under 0115",
+                        "ref": "Playground/Chase the Big Kid/Complete in under 0115"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Complete in under 0058",
+                        "ref": "Playground/Chase the Big Kid/Complete in under 0058"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Tag your sister",
+                        "ref": "Playground/Chase the Big Kid/Tag your sister"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Grab the golden pin",
+                        "ref": "Playground/Chase the Big Kid/Grab the golden pin"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Find the hidden G.A.T. comic",
+                        "ref": "Playground/Chase the Big Kid/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Chase the Big Kid - Chase Buddy",
+                        "ref": "Playground/Buddy Mode/Chase Buddy"
+                    },
+                    {
+                        "name": "Pogo Trial 1 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Playground/Pogo Trial 1/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Pogo Trial 2 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Playground/Pogo Trial 2/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial 1 - Get to the finish line",
+                        "ref": "Playground/Tiny Toy Trial 1/Get to the finish line"
+                    },
+                    {
+                        "name": "Tiny Toy Trial 2 - Get to the finish line",
+                        "ref": "Playground/Tiny Toy Trial 2/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "Playground/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "Chase the Grade - Complete the course",
+                        "ref": "Playground/Chase the Grade/Complete the course"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "Playground/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 540,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "School",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "ABCs and 123s - Complete the course",
+                        "ref": "School/ABCs and 123s/Complete the course"
+                    },
+                    {
+                        "name": "ABCs and 123s - Complete in under 1200",
+                        "ref": "School/ABCs and 123s/Complete in under 1200"
+                    },
+                    {
+                        "name": "ABCs and 123s - Complete in under 0500",
+                        "ref": "School/ABCs and 123s/Complete in under 0500"
+                    },
+                    {
+                        "name": "ABCs and 123s - No Deaths",
+                        "ref": "School/ABCs and 123s/No Deaths"
+                    },
+                    {
+                        "name": "ABCs and 123s - Grab the golden pin",
+                        "ref": "School/ABCs and 123s/Grab the golden pin"
+                    },
+                    {
+                        "name": "ABCs and 123s - Find the hidden G.A.T. comic",
+                        "ref": "School/ABCs and 123s/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "ABCs and 123s - Buddy Mode",
+                        "ref": "School/Buddy Mode/ABCs and 123s"
+                    },
+                    {
+                        "name": "Middle School Mischief - Complete the course",
+                        "ref": "School/Middle School Mischief/Complete the course"
+                    },
+                    {
+                        "name": "Middle School Mischief - Complete in under 1100",
+                        "ref": "School/Middle School Mischief/Complete in under 1100"
+                    },
+                    {
+                        "name": "Middle School Mischief - Complete in under 0300",
+                        "ref": "School/Middle School Mischief/Complete in under 0300"
+                    },
+                    {
+                        "name": "Middle School Mischief - No Deaths",
+                        "ref": "School/Middle School Mischief/No Deaths"
+                    },
+                    {
+                        "name": "Middle School Mischief - Grab the golden pin",
+                        "ref": "School/Middle School Mischief/Grab the golden pin"
+                    },
+                    {
+                        "name": "Middle School Mischief - Find the hidden G.A.T. comic",
+                        "ref": "School/Middle School Mischief/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Middle School Mischief - Buddy Mode",
+                        "ref": "School/Buddy Mode/Middle School Mischief"
+                    },
+                    {
+                        "name": "Repeat the Grade - Complete the course",
+                        "ref": "School/Repeat the Grade/Complete the course"
+                    },
+                    {
+                        "name": "Repeat the Grade - Complete in under 1000",
+                        "ref": "School/Repeat the Grade/Complete in under 1000"
+                    },
+                    {
+                        "name": "Repeat the Grade - Complete in under 0330",
+                        "ref": "School/Repeat the Grade/Complete in under 0330"
+                    },
+                    {
+                        "name": "Repeat the Grade - No Deaths",
+                        "ref": "School/Repeat the Grade/No Deaths"
+                    },
+                    {
+                        "name": "Repeat the Grade - Grab the golden pin",
+                        "ref": "School/Repeat the Grade/Grab the golden pin"
+                    },
+                    {
+                        "name": "Repeat the Grade - Find the hidden G.A.T. comic",
+                        "ref": "School/Repeat the Grade/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Repeat the Grade - Buddy Mode",
+                        "ref": "School/Buddy Mode/Repeat the Grade"
+                    },
+                    {
+                        "name": "Senior Trip - Complete the course",
+                        "ref": "School/Senior Trip/Complete the course"
+                    },
+                    {
+                        "name": "Senior Trip - Complete in under 0800",
+                        "ref": "School/Senior Trip/Complete in under 0800"
+                    },
+                    {
+                        "name": "Senior Trip - Complete in under 0300",
+                        "ref": "School/Senior Trip/Complete in under 0300"
+                    },
+                    {
+                        "name": "Senior Trip - No Deaths",
+                        "ref": "School/Senior Trip/No Deaths"
+                    },
+                    {
+                        "name": "Senior Trip - Grab the golden pin",
+                        "ref": "School/Senior Trip/Grab the golden pin"
+                    },
+                    {
+                        "name": "Senior Trip - Find the hidden G.A.T. comic",
+                        "ref": "School/Senior Trip/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Senior Trip - Buddy Mode",
+                        "ref": "School/Buddy Mode/Senior Trip"
+                    },
+                    {
+                        "name": "Freshman Frenzy - Complete the course",
+                        "ref": "School/Freshman Frenzy/Complete the course"
+                    },
+                    {
+                        "name": "Freshman Frenzy - Complete in under 1000",
+                        "ref": "School/Freshman Frenzy/Complete in under 1000"
+                    },
+                    {
+                        "name": "Freshman Frenzy - Complete in under 0330",
+                        "ref": "School/Freshman Frenzy/Complete in under 0330"
+                    },
+                    {
+                        "name": "Freshman Frenzy - No Deaths",
+                        "ref": "School/Freshman Frenzy/No Deaths"
+                    },
+                    {
+                        "name": "Freshman Frenzy - Grab the golden pin",
+                        "ref": "School/Freshman Frenzy/Grab the golden pin"
+                    },
+                    {
+                        "name": "Freshman Frenzy - Find the hidden G.A.T. comic",
+                        "ref": "School/Freshman Frenzy/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Freshman Frenzy - Buddy Mode",
+                        "ref": "School/Buddy Mode/Freshman Frenzy"
+                    },
+                    {
+                        "name": "Chase Your Sister - Complete the course",
+                        "ref": "School/Chase Your Sister/Complete the course"
+                    },
+                    {
+                        "name": "Chase Your Sister - Complete in under 0200",
+                        "ref": "School/Chase Your Sister/Complete in under 0200"
+                    },
+                    {
+                        "name": "Chase Your Sister - Complete in under 0050",
+                        "ref": "School/Chase Your Sister/Complete in under 0050"
+                    },
+                    {
+                        "name": "Chase Your Sister - Tag your sister",
+                        "ref": "School/Chase Your Sister/Tag your sister"
+                    },
+                    {
+                        "name": "Chase Your Sister - Grab the golden pin",
+                        "ref": "School/Chase Your Sister/Grab the golden pin"
+                    },
+                    {
+                        "name": "Chase Your Sister - Find the hidden G.A.T. comic",
+                        "ref": "School/Chase Your Sister/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Chase Your Sister - Chase The Escaped Dog",
+                        "ref": "School/Buddy Mode/Chase The Escaped Dog"
+                    },
+                    {
+                        "name": "Pogo Trial 1 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "School/Pogo Trial 1/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Pogo Trial 2 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "School/Pogo Trial 2/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Pogo Trial 3 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "School/Pogo Trial 3/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial - Get to the finish line",
+                        "ref": "School/Tiny Toy Trial/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "School/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "Chase the Grade - Complete the course",
+                        "ref": "School/Chase the Grade/Complete the course"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "School/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 915,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Wholesale",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To the Top - Complete the course",
+                        "ref": "Wholesale/To the Top/Complete the course"
+                    },
+                    {
+                        "name": "To the Top - Complete in under 1000",
+                        "ref": "Wholesale/To the Top/Complete in under 1000"
+                    },
+                    {
+                        "name": "To the Top - Complete in under 0300",
+                        "ref": "Wholesale/To the Top/Complete in under 0300"
+                    },
+                    {
+                        "name": "To the Top - No Deaths",
+                        "ref": "Wholesale/To the Top/No Deaths"
+                    },
+                    {
+                        "name": "To the Top - Grab the golden pin",
+                        "ref": "Wholesale/To the Top/Grab the golden pin"
+                    },
+                    {
+                        "name": "To the Top - Find the hidden G.A.T. comic",
+                        "ref": "Wholesale/To the Top/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "To the Top - Buddy Mode",
+                        "ref": "Wholesale/To the Top/Buddy Mode"
+                    },
+                    {
+                        "name": "Duct and Cover - Complete the course",
+                        "ref": "Wholesale/Duct and Cover/Complete the course"
+                    },
+                    {
+                        "name": "Duct and Cover - Complete in under 0800",
+                        "ref": "Wholesale/Duct and Cover/Complete in under 0800"
+                    },
+                    {
+                        "name": "Duct and Cover - Complete in under 0230",
+                        "ref": "Wholesale/Duct and Cover/Complete in under 0230"
+                    },
+                    {
+                        "name": "Duct and Cover - No Deaths",
+                        "ref": "Wholesale/Duct and Cover/No Deaths"
+                    },
+                    {
+                        "name": "Duct and Cover - Grab the golden pin",
+                        "ref": "Wholesale/Duct and Cover/Grab the golden pin"
+                    },
+                    {
+                        "name": "Duct and Cover - Find the hidden G.A.T. comic",
+                        "ref": "Wholesale/Duct and Cover/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Duct and Cover - Buddy Mode",
+                        "ref": "Wholesale/Duct and Cover/Buddy Mode"
+                    },
+                    {
+                        "name": "Meat Market - Complete the course",
+                        "ref": "Wholesale/Meat Market/Complete the course"
+                    },
+                    {
+                        "name": "Meat Market - Complete in under 0800",
+                        "ref": "Wholesale/Meat Market/Complete in under 0800"
+                    },
+                    {
+                        "name": "Meat Market - Complete in under 0330",
+                        "ref": "Wholesale/Meat Market/Complete in under 0330"
+                    },
+                    {
+                        "name": "Meat Market - No Deaths",
+                        "ref": "Wholesale/Meat Market/No Deaths"
+                    },
+                    {
+                        "name": "Meat Market - Grab the golden pin",
+                        "ref": "Wholesale/Meat Market/Grab the golden pin"
+                    },
+                    {
+                        "name": "Meat Market - Find the hidden G.A.T. comic",
+                        "ref": "Wholesale/Meat Market/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Meat Market - Buddy Mode",
+                        "ref": "Wholesale/Meat Market/Buddy Mode"
+                    },
+                    {
+                        "name": "Returns - Complete the course",
+                        "ref": "Wholesale/Returns/Complete the course"
+                    },
+                    {
+                        "name": "Returns - Complete in under 0400",
+                        "ref": "Wholesale/Returns/Complete in under 0400"
+                    },
+                    {
+                        "name": "Returns - Complete in under 0230",
+                        "ref": "Wholesale/Returns/Complete in under 0230"
+                    },
+                    {
+                        "name": "Returns - No Deaths",
+                        "ref": "Wholesale/Returns/No Deaths"
+                    },
+                    {
+                        "name": "Returns - Grab the golden pin",
+                        "ref": "Wholesale/Returns/Grab the golden pin"
+                    },
+                    {
+                        "name": "Returns - Find the hidden G.A.T. comic",
+                        "ref": "Wholesale/Returns/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Returns - Buddy Mode",
+                        "ref": "Wholesale/Returns/Buddy Mode"
+                    },
+                    {
+                        "name": "Meat Grinder - Complete the course",
+                        "ref": "Wholesale/Meat Grinder/Complete the course"
+                    },
+                    {
+                        "name": "Meat Grinder - Complete in under 1000",
+                        "ref": "Wholesale/Meat Grinder/Complete in under 1000"
+                    },
+                    {
+                        "name": "Meat Grinder - Complete in under 0430",
+                        "ref": "Wholesale/Meat Grinder/Complete in under 0430"
+                    },
+                    {
+                        "name": "Meat Grinder - No Deaths",
+                        "ref": "Wholesale/Meat Grinder/No Deaths"
+                    },
+                    {
+                        "name": "Meat Grinder - Grab the golden pin",
+                        "ref": "Wholesale/Meat Grinder/Grab the golden pin"
+                    },
+                    {
+                        "name": "Meat Grinder - Find the hidden G.A.T. comic",
+                        "ref": "Wholesale/Meat Grinder/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Meat Grinder - Buddy Mode",
+                        "ref": "Wholesale/Meat Grinder/Buddy Mode"
+                    },
+                    {
+                        "name": "Chase Through the Store - Complete the course",
+                        "ref": "Wholesale/Chase Through the Store/Complete the course"
+                    },
+                    {
+                        "name": "Chase Through the Store - Complete in under 0050",
+                        "ref": "Wholesale/Chase Through the Store/Complete in under 0050"
+                    },
+                    {
+                        "name": "Chase Through the Store - Complete in under 0033",
+                        "ref": "Wholesale/Chase Through the Store/Complete in under 0033"
+                    },
+                    {
+                        "name": "Chase Through the Store - No Deaths",
+                        "ref": "Wholesale/Chase Through the Store/No Deaths"
+                    },
+                    {
+                        "name": "Chase Through the Store - Grab the golden pin",
+                        "ref": "Wholesale/Chase Through the Store/Grab the golden pin"
+                    },
+                    {
+                        "name": "Chase Through the Store - Find the hidden G.A.T. comic",
+                        "ref": "Wholesale/Chase Through the Store/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Chase Through the Store - Chase the Runaway Dog",
+                        "ref": "Wholesale/Chase Through the Store/Chase the Runaway Dog"
+                    },
+                    {
+                        "name": "Pogo Trial 1 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Wholesale/Pogo Trial 1/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Pogo Trial 2 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Wholesale/Pogo Trial 2/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Pogo Trial 3 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Wholesale/Pogo Trial 3/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial - Get to the finish line",
+                        "ref": "Wholesale/Tiny Toy Trial/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "Wholesale/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "Chase the Grade - Complete the course",
+                        "ref": "Wholesale/Chase the Grade/Complete the course"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "Wholesale/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1285,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Master Class",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Air Control Mastery - Complete the course",
+                        "ref": "Master Class/Air Control Mastery/Complete the course"
+                    },
+                    {
+                        "name": "Air Control Mastery - Complete in under 0230",
+                        "ref": "Master Class/Air Control Mastery/Complete in under 0230"
+                    },
+                    {
+                        "name": "Air Control Mastery - Complete in under 0100",
+                        "ref": "Master Class/Air Control Mastery/Complete in under 0100"
+                    },
+                    {
+                        "name": "Air Control Mastery - No Deaths",
+                        "ref": "Master Class/Air Control Mastery/No Deaths"
+                    },
+                    {
+                        "name": "Air Control Mastery - Reach a speed of 4.5",
+                        "ref": "Master Class/Air Control Mastery/Reach a speed of 4.5"
+                    },
+                    {
+                        "name": "Air Control Mastery - Grab the golden pin",
+                        "ref": "Master Class/Air Control Mastery/Grab the golden pin"
+                    },
+                    {
+                        "name": "Wall Jump Mastery - Complete the course",
+                        "ref": "Master Class/Wall Jump Mastery/Complete the course"
+                    },
+                    {
+                        "name": "Wall Jump Mastery - Complete in under 0230",
+                        "ref": "Master Class/Wall Jump Mastery/Complete in under 0230"
+                    },
+                    {
+                        "name": "Wall Jump Mastery - Complete in under 0050",
+                        "ref": "Master Class/Wall Jump Mastery/Complete in under 0050"
+                    },
+                    {
+                        "name": "Wall Jump Mastery - No Deaths",
+                        "ref": "Master Class/Wall Jump Mastery/No Deaths"
+                    },
+                    {
+                        "name": "Wall Jump Mastery - Spend less than 10 seconds on the ground",
+                        "ref": "Master Class/Wall Jump Mastery/Spend less than 10 seconds on the ground"
+                    },
+                    {
+                        "name": "Wall Jump Mastery - Grab the golden pin",
+                        "ref": "Master Class/Wall Jump Mastery/Grab the golden pin"
+                    },
+                    {
+                        "name": "Surf Mastery - Complete the course",
+                        "ref": "Master Class/Surf Mastery/Complete the course"
+                    },
+                    {
+                        "name": "Surf Mastery - Complete in under 0100",
+                        "ref": "Master Class/Surf Mastery/Complete in under 0100"
+                    },
+                    {
+                        "name": "Surf Mastery - Complete in under 0030",
+                        "ref": "Master Class/Surf Mastery/Complete in under 0030"
+                    },
+                    {
+                        "name": "Surf Mastery - No Deaths",
+                        "ref": "Master Class/Surf Mastery/No Deaths"
+                    },
+                    {
+                        "name": "Surf Mastery - Complete in 5 jumps or less",
+                        "ref": "Master Class/Surf Mastery/Complete in 5 jumps or less"
+                    },
+                    {
+                        "name": "Surf Mastery - Grab the golden pin",
+                        "ref": "Master Class/Surf Mastery/Grab the golden pin"
+                    },
+                    {
+                        "name": "Boosting Mastery - Complete the course",
+                        "ref": "Master Class/Boosting Mastery/Complete the course"
+                    },
+                    {
+                        "name": "Boosting Mastery - Complete in under 0400",
+                        "ref": "Master Class/Boosting Mastery/Complete in under 0400"
+                    },
+                    {
+                        "name": "Boosting Mastery - Complete in under 0100",
+                        "ref": "Master Class/Boosting Mastery/Complete in under 0100"
+                    },
+                    {
+                        "name": "Boosting Mastery - No Deaths",
+                        "ref": "Master Class/Boosting Mastery/No Deaths"
+                    },
+                    {
+                        "name": "Boosting Mastery - Reach a speed of 5.5",
+                        "ref": "Master Class/Boosting Mastery/Reach a speed of 5.5"
+                    },
+                    {
+                        "name": "Boosting Mastery - Grab the golden pin",
+                        "ref": "Master Class/Boosting Mastery/Grab the golden pin"
+                    },
+                    {
+                        "name": "Wind Tunnel Mastery - Complete the course",
+                        "ref": "Master Class/Wind Tunnel Mastery/Complete the course"
+                    },
+                    {
+                        "name": "Wind Tunnel Mastery - Complete in under 0100",
+                        "ref": "Master Class/Wind Tunnel Mastery/Complete in under 0100"
+                    },
+                    {
+                        "name": "Wind Tunnel Mastery - Complete in under 0030",
+                        "ref": "Master Class/Wind Tunnel Mastery/Complete in under 0030"
+                    },
+                    {
+                        "name": "Wind Tunnel Mastery - No Deaths",
+                        "ref": "Master Class/Wind Tunnel Mastery/No Deaths"
+                    },
+                    {
+                        "name": "Wind Tunnel Mastery - Spend less than 5 seconds on the ground",
+                        "ref": "Master Class/Wind Tunnel Mastery/Spend less than 5 seconds on the ground"
+                    },
+                    {
+                        "name": "Wind Tunnel Mastery - Grab the golden pin",
+                        "ref": "Master Class/Wind Tunnel Mastery/Grab the golden pin"
+                    },
+                    {
+                        "name": "Honors Gym Class - Complete the course",
+                        "ref": "Master Class/Honors Gym Class/Complete the course"
+                    },
+                    {
+                        "name": "Honors Gym Class - Complete in under 0430",
+                        "ref": "Master Class/Honors Gym Class/Complete in under 0430"
+                    },
+                    {
+                        "name": "Honors Gym Class - Complete in under 0200",
+                        "ref": "Master Class/Honors Gym Class/Complete in under 0200"
+                    },
+                    {
+                        "name": "Honors Gym Class - No Deaths",
+                        "ref": "Master Class/Honors Gym Class/No Deaths"
+                    },
+                    {
+                        "name": "Honors Gym Class - Reach a speed of 9",
+                        "ref": "Master Class/Honors Gym Class/Reach a speed of 9"
+                    },
+                    {
+                        "name": "Honors Gym Class - Grab the golden pin",
+                        "ref": "Master Class/Honors Gym Class/Grab the golden pin"
+                    },
+                    {
+                        "name": "Pogo Trial - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Master Class/Pogo Trial/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial - Get to the finish line",
+                        "ref": "Master Class/Tiny Toy Trial/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "Master Class/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "Master Class/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 175,
+                        "y": 545
+                    }
+                ]
+            },
+            {
+                "name": "Basement",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Race to the Summit - Complete the course",
+                        "ref": "Basement/Race to the Summit/Complete the course"
+                    },
+                    {
+                        "name": "Race to the Summit - Complete in under 0500",
+                        "ref": "Basement/Race to the Summit/Complete in under 0500"
+                    },
+                    {
+                        "name": "Race to the Summit - Complete in under 0200",
+                        "ref": "Basement/Race to the Summit/Complete in under 0200"
+                    },
+                    {
+                        "name": "Race to the Summit - No Deaths",
+                        "ref": "Basement/Race to the Summit/No Deaths"
+                    },
+                    {
+                        "name": "Race to the Summit - Grab the golden pin",
+                        "ref": "Basement/Race to the Summit/Grab the golden pin"
+                    },
+                    {
+                        "name": "Race to the Summit - Find the hidden G.A.T. comic",
+                        "ref": "Basement/Race to the Summit/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Race to the Summit - Buddy Mode",
+                        "ref": "Basement/Race to the Summit/Buddy Mode"
+                    },
+                    {
+                        "name": "Lights Out - Complete the course",
+                        "ref": "Basement/Lights Out/Complete the course"
+                    },
+                    {
+                        "name": "Lights Out - Complete in under 0300",
+                        "ref": "Basement/Lights Out/Complete in under 0300"
+                    },
+                    {
+                        "name": "Lights Out - Complete in under 0045",
+                        "ref": "Basement/Lights Out/Complete in under 0045"
+                    },
+                    {
+                        "name": "Lights Out - No Deaths",
+                        "ref": "Basement/Lights Out/No Deaths"
+                    },
+                    {
+                        "name": "Lights Out - Grab the golden pin",
+                        "ref": "Basement/Lights Out/Grab the golden pin"
+                    },
+                    {
+                        "name": "Lights Out - Find the hidden G.A.T. comic",
+                        "ref": "Basement/Lights Out/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Lights Out - Buddy Mode",
+                        "ref": "Basement/Lights Out/Buddy Mode"
+                    },
+                    {
+                        "name": "Temple Sprint - Complete the course",
+                        "ref": "Basement/Temple Sprint/Complete the course"
+                    },
+                    {
+                        "name": "Temple Sprint - Complete in under 0420",
+                        "ref": "Basement/Temple Sprint/Complete in under 0420"
+                    },
+                    {
+                        "name": "Temple Sprint - Complete in under 0130",
+                        "ref": "Basement/Temple Sprint/Complete in under 0130"
+                    },
+                    {
+                        "name": "Temple Sprint - No Deaths",
+                        "ref": "Basement/Temple Sprint/No Deaths"
+                    },
+                    {
+                        "name": "Temple Sprint - Grab the golden pin",
+                        "ref": "Basement/Temple Sprint/Grab the golden pin"
+                    },
+                    {
+                        "name": "Temple Sprint - Find the hidden G.A.T. comic",
+                        "ref": "Basement/Temple Sprint/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Temple Sprint - Buddy Mode",
+                        "ref": "Basement/Temple Sprint/Buddy Mode"
+                    },
+                    {
+                        "name": "Fancy Footwork - Complete the course",
+                        "ref": "Basement/Fancy Footwork/Complete the course"
+                    },
+                    {
+                        "name": "Fancy Footwork - Complete in under 0600",
+                        "ref": "Basement/Fancy Footwork/Complete in under 0600"
+                    },
+                    {
+                        "name": "Fancy Footwork - Complete in under 0200",
+                        "ref": "Basement/Fancy Footwork/Complete in under 0200"
+                    },
+                    {
+                        "name": "Fancy Footwork - No Deaths",
+                        "ref": "Basement/Fancy Footwork/No Deaths"
+                    },
+                    {
+                        "name": "Fancy Footwork - Grab the golden pin",
+                        "ref": "Basement/Fancy Footwork/Grab the golden pin"
+                    },
+                    {
+                        "name": "Fancy Footwork - Find the hidden G.A.T. comic",
+                        "ref": "Basement/Fancy Footwork/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Fancy Footwork - Buddy Mode",
+                        "ref": "Basement/Fancy Footwork/Buddy Mode"
+                    },
+                    {
+                        "name": "Minecart Carnage - Complete the course",
+                        "ref": "Basement/Minecart Carnage/Complete the course"
+                    },
+                    {
+                        "name": "Minecart Carnage - Complete in under 0800",
+                        "ref": "Basement/Minecart Carnage/Complete in under 0800"
+                    },
+                    {
+                        "name": "Minecart Carnage - Complete in under 0245",
+                        "ref": "Basement/Minecart Carnage/Complete in under 0245"
+                    },
+                    {
+                        "name": "Minecart Carnage - No Deaths",
+                        "ref": "Basement/Minecart Carnage/No Deaths"
+                    },
+                    {
+                        "name": "Minecart Carnage - Grab the golden pin",
+                        "ref": "Basement/Minecart Carnage/Grab the golden pin"
+                    },
+                    {
+                        "name": "Minecart Carnage - Find the hidden G.A.T. comic",
+                        "ref": "Basement/Minecart Carnage/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Minecart Carnage - Buddy Mode",
+                        "ref": "Basement/Minecart Carnage/Buddy Mode"
+                    },
+                    {
+                        "name": "Chase The Meaning - Complete the course",
+                        "ref": "Basement/Chase The Meaning/Complete the course"
+                    },
+                    {
+                        "name": "Chase The Meaning - Complete in under 0300",
+                        "ref": "Basement/Chase The Meaning/Complete in under 0300"
+                    },
+                    {
+                        "name": "Chase The Meaning - Complete in under 0130",
+                        "ref": "Basement/Chase The Meaning/Complete in under 0130"
+                    },
+                    {
+                        "name": "Chase The Meaning - Tag your sister",
+                        "ref": "Basement/Chase The Meaning/Tag your sister"
+                    },
+                    {
+                        "name": "Chase The Meaning - Grab the golden pin",
+                        "ref": "Basement/Chase The Meaning/Grab the golden pin"
+                    },
+                    {
+                        "name": "Chase The Meaning - Find the hidden G.A.T. comic",
+                        "ref": "Basement/Chase The Meaning/Find the hidden G.A.T. comic"
+                    },
+                    {
+                        "name": "Chase The Meaning - Wild Teddy Chase",
+                        "ref": "Basement/Chase The Meaning/Wild Teddy Chase"
+                    },
+                    {
+                        "name": "Pogo Trial - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Basement/Pogo Trial/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial - Get to the finish line",
+                        "ref": "Basement/Tiny Toy Trial/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "Basement/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "Basement/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 540,
+                        "y": 545
+                    }
+                ]
+            },
+            {
+                "name": "Roccos Arcade",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Arcade Action - Complete the course",
+                        "ref": "Roccos Arcade/Arcade Action/Complete the course"
+                    },
+                    {
+                        "name": "Arcade Action - Complete in under 0250",
+                        "ref": "Roccos Arcade/Arcade Action/Complete in under 0250"
+                    },
+                    {
+                        "name": "Arcade Action - Complete in under 0115",
+                        "ref": "Roccos Arcade/Arcade Action/Complete in under 0115"
+                    },
+                    {
+                        "name": "Arcade Action - No Deaths",
+                        "ref": "Roccos Arcade/Arcade Action/No Deaths"
+                    },
+                    {
+                        "name": "Arcade Action - Grab the golden pin",
+                        "ref": "Roccos Arcade/Arcade Action/Grab the golden pin"
+                    },
+                    {
+                        "name": "Arcade Action - Find the Mini Rocco",
+                        "ref": "Roccos Arcade/Arcade Action/Find the Mini Rocco"
+                    },
+                    {
+                        "name": "Arcade Action - Buddy Mode",
+                        "ref": "Roccos Arcade/Arcade Action/Buddy Mode"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Complete the course",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Complete the course"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Complete in under 0220",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Complete in under 0220"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Complete in under 0045",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Complete in under 0045"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Spend less than 24 seconds on the ground",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Spend less than 24 seconds on the ground"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Grab the golden pin",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Grab the golden pin"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Find the Mini Rocco",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Find the Mini Rocco"
+                    },
+                    {
+                        "name": "Roccos Rumpus Room - Buddy Mode",
+                        "ref": "Roccos Arcade/Roccos Rumpus Room/Buddy Mode"
+                    },
+                    {
+                        "name": "Employees Only - Complete the course",
+                        "ref": "Roccos Arcade/Employees Only/Complete the course"
+                    },
+                    {
+                        "name": "Employees Only - Complete in under 0420",
+                        "ref": "Roccos Arcade/Employees Only/Complete in under 0420"
+                    },
+                    {
+                        "name": "Employees Only - Complete in under 0120",
+                        "ref": "Roccos Arcade/Employees Only/Complete in under 0120"
+                    },
+                    {
+                        "name": "Employees Only - No Deaths",
+                        "ref": "Roccos Arcade/Employees Only/No Deaths"
+                    },
+                    {
+                        "name": "Employees Only - Find and open all the gas valves",
+                        "ref": "Roccos Arcade/Employees Only/Find and open all the gas valves"
+                    },
+                    {
+                        "name": "Employees Only - Find the Mini Rocco",
+                        "ref": "Roccos Arcade/Employees Only/Find the Mini Rocco"
+                    },
+                    {
+                        "name": "Employees Only - Buddy Mode",
+                        "ref": "Roccos Arcade/Employees Only/Buddy Mode"
+                    },
+                    {
+                        "name": "Storage Room Spree - Complete the course",
+                        "ref": "Roccos Arcade/Storage Room Spree/Complete the course"
+                    },
+                    {
+                        "name": "Storage Room Spree - Complete in under 0200",
+                        "ref": "Roccos Arcade/Storage Room Spree/Complete in under 0200"
+                    },
+                    {
+                        "name": "Storage Room Spree - Complete in under 0045",
+                        "ref": "Roccos Arcade/Storage Room Spree/Complete in under 0045"
+                    },
+                    {
+                        "name": "Storage Room Spree - Find and open all the gas valves",
+                        "ref": "Roccos Arcade/Storage Room Spree/Find and open all the gas valves"
+                    },
+                    {
+                        "name": "Storage Room Spree - Grab the golden pin",
+                        "ref": "Roccos Arcade/Storage Room Spree/Grab the golden pin"
+                    },
+                    {
+                        "name": "Storage Room Spree - Find the Mini Rocco",
+                        "ref": "Roccos Arcade/Storage Room Spree/Find the Mini Rocco"
+                    },
+                    {
+                        "name": "Storage Room Spree - Buddy Mode",
+                        "ref": "Roccos Arcade/Storage Room Spree/Buddy Mode"
+                    },
+                    {
+                        "name": "Birthday Blowout - Complete the course",
+                        "ref": "Roccos Arcade/Birthday Blowout/Complete the course"
+                    },
+                    {
+                        "name": "Birthday Blowout - Complete in under 0300",
+                        "ref": "Roccos Arcade/Birthday Blowout/Complete in under 0300"
+                    },
+                    {
+                        "name": "Birthday Blowout - Complete in under 0050",
+                        "ref": "Roccos Arcade/Birthday Blowout/Complete in under 0050"
+                    },
+                    {
+                        "name": "Birthday Blowout - Find and open all the gas valves",
+                        "ref": "Roccos Arcade/Birthday Blowout/Find and open all the gas valves"
+                    },
+                    {
+                        "name": "Birthday Blowout - Grab the golden pin",
+                        "ref": "Roccos Arcade/Birthday Blowout/Grab the golden pin"
+                    },
+                    {
+                        "name": "Birthday Blowout - No Deaths",
+                        "ref": "Roccos Arcade/Birthday Blowout/No Deaths"
+                    },
+                    {
+                        "name": "Birthday Blowout - Buddy Mode",
+                        "ref": "Roccos Arcade/Birthday Blowout/Buddy Mode"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Complete the course",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Complete the course"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Complete in under 0055",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Complete in under 0055"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Complete in under 0035",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Complete in under 0035"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Tag your sister",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Tag your sister"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Grab the golden pin",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Grab the golden pin"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Find the Mini Rocco",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Find the Mini Rocco"
+                    },
+                    {
+                        "name": "Chase to the Arcade - Wheres Buddy",
+                        "ref": "Roccos Arcade/Chase to the Arcade/Wheres Buddy"
+                    },
+                    {
+                        "name": "Pogo Trial 1 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Roccos Arcade/Pogo Trial 1/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Pogo Trial 2 - Find all the checkpoints using the Pogo Stick",
+                        "ref": "Roccos Arcade/Pogo Trial 2/Find all the checkpoints using the Pogo Stick"
+                    },
+                    {
+                        "name": "Tiny Toy Trial 1 - Get to the finish line",
+                        "ref": "Roccos Arcade/Tiny Toy Trial 1/Get to the finish line"
+                    },
+                    {
+                        "name": "Tiny Toy Trial 2 - Get to the finish line",
+                        "ref": "Roccos Arcade/Tiny Toy Trial 2/Get to the finish line"
+                    },
+                    {
+                        "name": "Jetpack Trial - Find all the checkpoints using the Jetpack",
+                        "ref": "Roccos Arcade/Jetpack Trial/Find all the checkpoints using the Jetpack"
+                    },
+                    {
+                        "name": "All Course Marathon - Complete the course",
+                        "ref": "Roccos Arcade/All Course Marathon/Complete the course"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 915,
+                        "y": 545
+                    }
+                ]
+            }
+        ]
+    }
+]

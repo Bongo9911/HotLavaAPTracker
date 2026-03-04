@@ -1,0 +1,174 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Menu",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+            {
+                "title": "Intro",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Intro"
+                    ]
+                }
+            },
+            {
+                "title": "Gym Class",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gym Class"
+                    ]
+                }
+            },
+            {
+                "title": "Playground",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Playground"
+                    ]
+                }
+            },
+            {
+                "title": "School",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "School"
+                    ]
+                }
+            },
+            {
+                "title": "Wholesale",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Wholesale"
+                    ]
+                }
+            },
+            {
+                "title": "Master Class",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Master Class"
+                    ]
+                }
+            },
+            {
+                "title": "Basement",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Basement"
+                    ]
+                }
+            },
+            {
+                "title": "Rocco's Arcade",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Roccos Arcade"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Menu",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+            {
+                "title": "Intro",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Intro"
+                    ]
+                }
+            },
+            {
+                "title": "Gym Class",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gym Class"
+                    ]
+                }
+            },
+            {
+                "title": "Playground",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Playground"
+                    ]
+                }
+            },
+            {
+                "title": "School",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "School"
+                    ]
+                }
+            },
+            {
+                "title": "Wholesale",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Wholesale"
+                    ]
+                }
+            },
+            {
+                "title": "Master Class",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Master Class"
+                    ]
+                }
+            },
+            {
+                "title": "Basement",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Basement"
+                    ]
+                }
+            },
+            {
+                "title": "Rocco's Arcade",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Roccos Arcade"
+                    ]
+                }
+            }
+        ]
+    }
+}

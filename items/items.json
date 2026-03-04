@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Master Class",
+        "type": "toggle",
+        "img": "images/items/Worlds/Master Class.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "master_class"
+    },
+    {
+        "name": "Star",
+        "type": "toggle",
+        "img": "images/items/Filler/Star.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "star"
+    },
+    {
+        "name": "Wholesale",
+        "type": "toggle",
+        "img": "images/items/Worlds/Wholesale.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wholesale"
+    },
+    {
+        "name": "School",
+        "type": "toggle",
+        "img": "images/items/Worlds/School.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "school"
+    },
+    {
+        "name": "Climb",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Climb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "climb"
+    },
+    {
+        "name": "Crouch",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Crouch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crouch"
+    },
+    {
+        "name": "Playground",
+        "type": "toggle",
+        "img": "images/items/Worlds/Playground.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "playground"
+    },
+    {
+        "name": "Surf",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Surf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "surf"
+    },
+    {
+        "name": "Vault Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Special/Vault Jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vault_jump"
+    },
+    {
+        "name": "Boost Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Special/Boost Jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boost_jump"
+    },
+    {
+        "name": "Basement",
+        "type": "toggle",
+        "img": "images/items/Worlds/Basement.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basement"
+    },
+    {
+        "name": "Double Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Special/Double Jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "double_jump"
+    },
+    {
+        "name": "Grab",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Grab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grab"
+    },
+    {
+        "name": "Wall Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/WallJump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wall_jump"
+    },
+    {
+        "name": "Swing",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Swing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swing"
+    },
+    {
+        "name": "Slide Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Special/Slide Jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slide_jump"
+    },
+    {
+        "name": "Rocco's Arcade",
+        "type": "toggle",
+        "img": "images/items/Worlds/Roccos Arcade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "roccos_arcade"
+    },
+    {
+        "name": "XP Shard",
+        "type": "toggle",
+        "img": "images/items/Filler/XPShard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "xp_shard"
+    },
+    {
+        "name": "Gym Class",
+        "type": "toggle",
+        "img": "images/items/Worlds/Gym Class.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gym_class"
+    },
+    {
+        "name": "Update",
+        "type": "toggle",
+        "img": "images/items/Update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

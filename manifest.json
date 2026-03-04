@@ -1,0 +1,22 @@
+{
+    "name": "Hot Lava Archipelago",
+    "game_name": "Hot Lava",
+    "package_version": "0.0.1",
+    "package_uid": "hot lava_ap",
+    "author": "Bongo9911",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}

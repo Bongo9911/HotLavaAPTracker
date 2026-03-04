@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Overworld",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Menu.png"
+    },
+    {
+        "name": "Intro",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Intro.png"
+    },
+    {
+        "name": "Gym Class",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    },
+    {
+        "name": "Playground",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    },
+    {
+        "name": "School",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    },
+    {
+        "name": "Wholesale",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    },
+    {
+        "name": "Master Class",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    },
+    {
+        "name": "Basement",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    },
+    {
+        "name": "Roccos Arcade",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/Basic.png"
+    }
+]
