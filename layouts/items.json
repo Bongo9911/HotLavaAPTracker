@@ -39,7 +39,9 @@
                                 "double_jump",
                                 "boost_jump",
                                 "slide_jump",
-                                "vault_jump"
+                                "vault_jump",
+                                "pogo",
+                                "tiny_toy"
                             ]
                         ]
                     }
@@ -66,7 +68,7 @@
                         "item_height": 36,
                         "item_width": 36,
                         "rows": [
-[
+                            [
                                 "gym_class",
                                 "playground",
                                 "school",
@@ -87,7 +89,9 @@
                                 "double_jump",
                                 "boost_jump",
                                 "slide_jump",
-                                "vault_jump"
+                                "vault_jump",
+                                "pogo",
+                                "tiny_toy"
                             ]
                         ]
                     }

@@ -1,51 +1,11 @@
 [
     {
-        "name": "Master Class",
+        "name": "Gym Class",
         "type": "toggle",
-        "img": "images/items/Worlds/Master Class.png",
+        "img": "images/items/Worlds/Gym Class.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "master_class"
-    },
-    {
-        "name": "Star",
-        "type": "toggle",
-        "img": "images/items/Filler/Star.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "star"
-    },
-    {
-        "name": "Wholesale",
-        "type": "toggle",
-        "img": "images/items/Worlds/Wholesale.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wholesale"
-    },
-    {
-        "name": "School",
-        "type": "toggle",
-        "img": "images/items/Worlds/School.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "school"
-    },
-    {
-        "name": "Climb",
-        "type": "toggle",
-        "img": "images/items/Abilities/Standard/Climb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "climb"
-    },
-    {
-        "name": "Crouch",
-        "type": "toggle",
-        "img": "images/items/Abilities/Standard/Crouch.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crouch"
+        "codes": "gym_class"
     },
     {
         "name": "Playground",
@@ -56,28 +16,28 @@
         "codes": "playground"
     },
     {
-        "name": "Surf",
+        "name": "School",
         "type": "toggle",
-        "img": "images/items/Abilities/Standard/Surf.png",
+        "img": "images/items/Worlds/School.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "surf"
+        "codes": "school"
     },
     {
-        "name": "Vault Jump",
+        "name": "Wholesale",
         "type": "toggle",
-        "img": "images/items/Abilities/Special/Vault Jump.png",
+        "img": "images/items/Worlds/Wholesale.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "vault_jump"
+        "codes": "wholesale"
     },
     {
-        "name": "Boost Jump",
+        "name": "Master Class",
         "type": "toggle",
-        "img": "images/items/Abilities/Special/Boost Jump.png",
+        "img": "images/items/Worlds/Master Class.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "boost_jump"
+        "codes": "master_class"
     },
     {
         "name": "Basement",
@@ -88,12 +48,20 @@
         "codes": "basement"
     },
     {
-        "name": "Double Jump",
+        "name": "Rocco's Arcade",
         "type": "toggle",
-        "img": "images/items/Abilities/Special/Double Jump.png",
+        "img": "images/items/Worlds/Roccos Arcade.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "double_jump"
+        "codes": "roccos_arcade"
+    },
+    {
+        "name": "Crouch",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Crouch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crouch"
     },
     {
         "name": "Grab",
@@ -104,12 +72,12 @@
         "codes": "grab"
     },
     {
-        "name": "Wall Jump",
+        "name": "Climb",
         "type": "toggle",
-        "img": "images/items/Abilities/Standard/WallJump.png",
+        "img": "images/items/Abilities/Standard/Climb.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "wall_jump"
+        "codes": "climb"
     },
     {
         "name": "Swing",
@@ -120,6 +88,38 @@
         "codes": "swing"
     },
     {
+        "name": "Surf",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/Surf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "surf"
+    },
+    {
+        "name": "Wall Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/WallJump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wall_jump"
+    },
+    {
+        "name": "Double Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Special/Double Jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "double_jump"
+    },
+    {
+        "name": "Boost Jump",
+        "type": "toggle",
+        "img": "images/items/Abilities/Special/Boost Jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boost_jump"
+    },
+    {
         "name": "Slide Jump",
         "type": "toggle",
         "img": "images/items/Abilities/Special/Slide Jump.png",
@@ -128,12 +128,28 @@
         "codes": "slide_jump"
     },
     {
-        "name": "Rocco's Arcade",
+        "name": "Vault Jump",
         "type": "toggle",
-        "img": "images/items/Worlds/Roccos Arcade.png",
+        "img": "images/items/Abilities/Special/Vault Jump.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "roccos_arcade"
+        "codes": "vault_jump"
+    },
+    {
+        "name": "Pogo",
+        "type": "toggle",
+        "img": "images/items/Trials/Pogo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pogo"
+    },
+    {
+        "name": "Tiny Toy",
+        "type": "toggle",
+        "img": "images/items/Trials/TinyToy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tiny_toy"
     },
     {
         "name": "XP Shard",
@@ -144,12 +160,12 @@
         "codes": "xp_shard"
     },
     {
-        "name": "Gym Class",
+        "name": "Star",
         "type": "toggle",
-        "img": "images/items/Worlds/Gym Class.png",
+        "img": "images/items/Filler/Star.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "gym_class"
+        "codes": "star"
     },
     {
         "name": "Update",

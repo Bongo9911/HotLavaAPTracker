@@ -695,7 +695,7 @@
                     },
                     {
                         "name": "To the Top - Buddy Mode",
-                        "ref": "Wholesale/To the Top/Buddy Mode"
+                        "ref": "Wholesale/Buddy Mode/To the Top"
                     },
                     {
                         "name": "Duct and Cover - Complete the course",
@@ -723,7 +723,7 @@
                     },
                     {
                         "name": "Duct and Cover - Buddy Mode",
-                        "ref": "Wholesale/Duct and Cover/Buddy Mode"
+                        "ref": "Wholesale/Buddy Mode/Duct and Cover"
                     },
                     {
                         "name": "Meat Market - Complete the course",
@@ -751,7 +751,7 @@
                     },
                     {
                         "name": "Meat Market - Buddy Mode",
-                        "ref": "Wholesale/Meat Market/Buddy Mode"
+                        "ref": "Wholesale/Buddy Mode/Meat Market"
                     },
                     {
                         "name": "Returns - Complete the course",
@@ -779,7 +779,7 @@
                     },
                     {
                         "name": "Returns - Buddy Mode",
-                        "ref": "Wholesale/Returns/Buddy Mode"
+                        "ref": "Wholesale/Buddy Mode/Returns"
                     },
                     {
                         "name": "Meat Grinder - Complete the course",
@@ -807,7 +807,7 @@
                     },
                     {
                         "name": "Meat Grinder - Buddy Mode",
-                        "ref": "Wholesale/Meat Grinder/Buddy Mode"
+                        "ref": "Wholesale/Buddy Mode/Meat Grinder"
                     },
                     {
                         "name": "Chase Through the Store - Complete the course",
@@ -835,7 +835,7 @@
                     },
                     {
                         "name": "Chase Through the Store - Chase the Runaway Dog",
-                        "ref": "Wholesale/Chase Through the Store/Chase the Runaway Dog"
+                        "ref": "Wholesale/Buddy Mode/Chase the Runaway Dog"
                     },
                     {
                         "name": "Pogo Trial 1 - Find all the checkpoints using the Pogo Stick",
@@ -1087,7 +1087,7 @@
                     },
                     {
                         "name": "Race to the Summit - Buddy Mode",
-                        "ref": "Basement/Race to the Summit/Buddy Mode"
+                        "ref": "Basement/Buddy Mode/Race to the Summit"
                     },
                     {
                         "name": "Lights Out - Complete the course",
@@ -1115,7 +1115,7 @@
                     },
                     {
                         "name": "Lights Out - Buddy Mode",
-                        "ref": "Basement/Lights Out/Buddy Mode"
+                        "ref": "Basement/Buddy Mode/Lights Out"
                     },
                     {
                         "name": "Temple Sprint - Complete the course",
@@ -1143,7 +1143,7 @@
                     },
                     {
                         "name": "Temple Sprint - Buddy Mode",
-                        "ref": "Basement/Temple Sprint/Buddy Mode"
+                        "ref": "Basement/Buddy Mode/Temple Sprint"
                     },
                     {
                         "name": "Fancy Footwork - Complete the course",
@@ -1171,7 +1171,7 @@
                     },
                     {
                         "name": "Fancy Footwork - Buddy Mode",
-                        "ref": "Basement/Fancy Footwork/Buddy Mode"
+                        "ref": "Basement/Buddy Mode/Fancy Footwork"
                     },
                     {
                         "name": "Minecart Carnage - Complete the course",
@@ -1199,7 +1199,7 @@
                     },
                     {
                         "name": "Minecart Carnage - Buddy Mode",
-                        "ref": "Basement/Minecart Carnage/Buddy Mode"
+                        "ref": "Basement/Buddy Mode/Minecart Carnage"
                     },
                     {
                         "name": "Chase The Meaning - Complete the course",
@@ -1227,7 +1227,7 @@
                     },
                     {
                         "name": "Chase The Meaning - Wild Teddy Chase",
-                        "ref": "Basement/Chase The Meaning/Wild Teddy Chase"
+                        "ref": "Basement/Buddy Mode/Wild Teddy Chase"
                     },
                     {
                         "name": "Pogo Trial - Find all the checkpoints using the Pogo Stick",
@@ -1289,7 +1289,7 @@
                     },
                     {
                         "name": "Arcade Action - Buddy Mode",
-                        "ref": "Roccos Arcade/Arcade Action/Buddy Mode"
+                        "ref": "Roccos Arcade/Buddy Mode/Arcade Action"
                     },
                     {
                         "name": "Roccos Rumpus Room - Complete the course",
@@ -1317,7 +1317,7 @@
                     },
                     {
                         "name": "Roccos Rumpus Room - Buddy Mode",
-                        "ref": "Roccos Arcade/Roccos Rumpus Room/Buddy Mode"
+                        "ref": "Roccos Arcade/Buddy Mode/Roccos Rumpus Room"
                     },
                     {
                         "name": "Employees Only - Complete the course",
@@ -1345,7 +1345,7 @@
                     },
                     {
                         "name": "Employees Only - Buddy Mode",
-                        "ref": "Roccos Arcade/Employees Only/Buddy Mode"
+                        "ref": "Roccos Arcade/Buddy Mode/Employees Only"
                     },
                     {
                         "name": "Storage Room Spree - Complete the course",
@@ -1373,7 +1373,7 @@
                     },
                     {
                         "name": "Storage Room Spree - Buddy Mode",
-                        "ref": "Roccos Arcade/Storage Room Spree/Buddy Mode"
+                        "ref": "Roccos Arcade/Buddy Mode/Storage Room Spree"
                     },
                     {
                         "name": "Birthday Blowout - Complete the course",
@@ -1401,7 +1401,7 @@
                     },
                     {
                         "name": "Birthday Blowout - Buddy Mode",
-                        "ref": "Roccos Arcade/Birthday Blowout/Buddy Mode"
+                        "ref": "Roccos Arcade/Buddy Mode/Birthday Blowout"
                     },
                     {
                         "name": "Chase to the Arcade - Complete the course",
@@ -1429,7 +1429,7 @@
                     },
                     {
                         "name": "Chase to the Arcade - Wheres Buddy",
-                        "ref": "Roccos Arcade/Chase to the Arcade/Wheres Buddy"
+                        "ref": "Roccos Arcade/Buddy Mode/Wheres Buddy"
                     },
                     {
                         "name": "Pogo Trial 1 - Find all the checkpoints using the Pogo Stick",
