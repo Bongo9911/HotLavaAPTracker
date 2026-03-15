@@ -28,20 +28,21 @@
                                 "roccos_arcade"
                             ],
                             [
+                                "double_jump",
+                                "boost_jump",
+                                "slide_jump",
+                                "vault_jump",
+                                "pogo",
+                                "tiny_toy",
+                                "jetpack"
+                            ],
+                            [
                                 "crouch",
                                 "grab",
                                 "climb",
                                 "swing",
                                 "surf",
                                 "wall_jump"
-                            ],
-                            [
-                                "double_jump",
-                                "boost_jump",
-                                "slide_jump",
-                                "vault_jump",
-                                "pogo",
-                                "tiny_toy"
                             ]
                         ]
                     }
@@ -78,20 +79,21 @@
                                 "roccos_arcade"
                             ],
                             [
+                                "double_jump",
+                                "boost_jump",
+                                "slide_jump",
+                                "vault_jump",
+                                "pogo",
+                                "tiny_toy",
+                                "jetpack"
+                            ],
+                            [
                                 "crouch",
                                 "surf",
                                 "wall_jump",
                                 "grab",
                                 "climb",
                                 "swing"
-                            ],
-                            [
-                                "double_jump",
-                                "boost_jump",
-                                "slide_jump",
-                                "vault_jump",
-                                "pogo",
-                                "tiny_toy"
                             ]
                         ]
                     }

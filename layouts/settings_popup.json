@@ -5,13 +5,34 @@
         "content": [
             {
                 "type": "group",
-                "header": "Autofill Settings",
+                "header": "Settings",
                 "header_background": "#3e4b57",
                 "content": [
                     {
-                        "type": "item",
-                        "margin": "5,1,5,5",
-                        "item": "autofill_settings"
+                        "type": "itemgrid",
+                        "item_margin": "2,2",
+                        "item_size": "40,40",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "max_width": "48",
+                        "max_height": "48",
+                        "rows": [
+                            [
+                                "time_stars_enabled",
+                                "no_deaths_stars_enabled",
+                                "collectible_stars_enabled",
+                                "challenge_stars_enabled",
+                                "buddy_stars_enabled",
+                                "chase_buddy_stars_enabled"
+                            ],
+                            [
+                                "pogo_stars_enabled",
+                                "tiny_toy_stars_enabled",
+                                "jetpack_stars_enabled",
+                                "chase_the_grade_stars_enabled",
+                                "all_course_stars_enabled"
+                            ]
+                        ]
                     }
                 ]
             }

@@ -23,31 +23,31 @@
                     {
                         "name": "Complete in under 0800",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0210",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Reach a speed of 9",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -75,31 +75,31 @@
                     {
                         "name": "Complete in under 0230",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0100",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Dont perform any swings",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -126,31 +126,31 @@
                     {
                         "name": "Complete in under 0200",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0055",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Spend less than 25 seconds on the ground",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -177,31 +177,31 @@
                     {
                         "name": "Complete in under 0150",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0050",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Reach a speed of 10.5",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -228,31 +228,31 @@
                     {
                         "name": "Complete in under 0230",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0110",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Spend less than 30 seconds on the ground",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -276,31 +276,31 @@
                     {
                         "name": "Complete in under 0110",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0045",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Dont perform any swings",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Tag your sister",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -321,37 +321,37 @@
                     {
                         "name": "Gym Jam",
                         "access_rules": ["climb,swing,wall_jump"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Trampoline Trouble",
                         "access_rules": ["swing", "$special"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Livin on the Ledge",
                         "access_rules": ["climb,swing"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Surfing Surfaces",
                         "access_rules": ["surf"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Pole Vault",
                         "access_rules": ["climb,swing"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Wild Buddy Chase",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["chase_buddy_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -366,13 +366,13 @@
             {
                 "name": "Pogo Trial",
                 "access_rules": [
-                    " "
+                    "pogo"
                 ],
                 "sections": [
                     {
                         "name": "Find all the checkpoints using the Pogo Stick",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["pogo_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -390,13 +390,13 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "tiny_toy"
                 ],
                 "sections": [
                     {
                         "name": "Get to the finish line",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["tiny_toy_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -411,13 +411,13 @@
             {
                 "name": "Jetpack Trial",
                 "access_rules": [
-                    " "
+                    "jetpack"
                 ],
                 "sections": [
                     {
                         "name": "Find all the checkpoints using the Jetpack",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["jetpack_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -438,7 +438,7 @@
                     {
                         "name": "Complete the course",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["all_course_stars_enabled"],
                         "item_count": 1
                     }
                 ],

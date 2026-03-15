@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Time Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": false,
+    "img": "/images/settings/Timer.png",
+    "disabled_img": "/images/settings/TimerOff.png",
+    "codes": "time_stars_enabled"
+  },
+  {
+    "name": "No Deaths Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": false,
+    "img": "/images/settings/Death.png",
+    "codes": "no_deaths_stars_enabled"
+  },
+  {
+    "name": "Collectible Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": false,
+    "img": "/images/settings/Comic.png",
+    "codes": "collectible_stars_enabled"
+  },
+  {
+    "name": "Challenge Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": false,
+    "img": "/images/settings/Challenge.png",
+    "codes": "challenge_stars_enabled"
+  },
+  {
+    "name": "Buddy Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": false,
+    "img": "/images/settings/Buddy.png",
+    "codes": "buddy_stars_enabled"
+  },
+  {
+    "name": "Chase Buddy Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": true,
+    "img": "/images/settings/ChaseBuddy.png",
+    "codes": "chase_buddy_stars_enabled"
+  },
+  {
+    "name": "Pogo Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": true,
+    "img": "/images/items/Trials/Pogo.png",
+    "codes": "pogo_stars_enabled"
+  },
+  {
+    "name": "Tiny Toy Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": true,
+    "img": "/images/items/Trials/TinyToy.png",
+    "codes": "tiny_toy_stars_enabled"
+  },
+  {
+    "name": "Jetpack Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": true,
+    "img": "/images/items/Trials/Jetpack.png",
+    "codes": "jetpack_stars_enabled"
+  },
+  {
+    "name": "Chase the Grade Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": true,
+    "img": "/images/settings/ChaseTheGrade.png",
+    "codes": "chase_the_grade_stars_enabled"
+  },
+  {
+    "name": "All Course Marathon Stars Enabled",
+    "type": "progressive_toggle",
+    "initial_active_state": false,
+    "img": "/images/settings/Trophy.png",
+    "codes": "all_course_stars_enabled"
+  }
+]

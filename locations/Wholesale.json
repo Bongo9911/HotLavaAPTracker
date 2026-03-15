@@ -23,31 +23,31 @@
                     {
                         "name": "Complete in under 1000",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0300",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Find the hidden G.A.T. comic",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -74,31 +74,31 @@
                     {
                         "name": "Complete in under 0800",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0230",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Find the hidden G.A.T. comic",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -125,31 +125,31 @@
                     {
                         "name": "Complete in under 0800",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0330",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Find the hidden G.A.T. comic",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -176,31 +176,31 @@
                     {
                         "name": "Complete in under 0400",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0230",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Find the hidden G.A.T. comic",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -227,31 +227,31 @@
                     {
                         "name": "Complete in under 1000",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0430",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Find the hidden G.A.T. comic",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -278,31 +278,31 @@
                     {
                         "name": "Complete in under 0050",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Complete in under 0033",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "No Deaths",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["no_deaths_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Grab the golden pin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Find the hidden G.A.T. comic",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -323,37 +323,37 @@
                     {
                         "name": "To the Top",
                         "access_rules": ["wall_jump,climb"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Duct and Cover",
                         "access_rules": ["wall_jump,swing"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Meat Market",
                         "access_rules": ["crouch,swing,wall_jump"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Returns",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Meat Grinder",
                         "access_rules": ["climb,swing,crouch,wall_jump"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["buddy_stars_enabled"],
                         "item_count": 1
                     },
                     {
                         "name": "Chase the Runaway Dog",
                         "access_rules": ["wall_jump"],
-                        "visibility_rules": [],
+                        "visibility_rules": ["chase_buddy_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -368,13 +368,13 @@
             {
                 "name": "Pogo Trial 1",
                 "access_rules": [
-                    " "
+                    "pogo"
                 ],
                 "sections": [
                     {
                         "name": "Find all the checkpoints using the Pogo Stick",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["pogo_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -389,13 +389,13 @@
             {
                 "name": "Pogo Trial 2",
                 "access_rules": [
-                    " "
+                    "pogo"
                 ],
                 "sections": [
                     {
                         "name": "Find all the checkpoints using the Pogo Stick",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["pogo_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -410,13 +410,13 @@
             {
                 "name": "Pogo Trial 3",
                 "access_rules": [
-                    " "
+                    "pogo"
                 ],
                 "sections": [
                     {
                         "name": "Find all the checkpoints using the Pogo Stick",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["pogo_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -431,13 +431,13 @@
             {
                 "name": "Tiny Toy Trial",
                 "access_rules": [
-                    " "
+                    "tiny_toy"
                 ],
                 "sections": [
                     {
                         "name": "Get to the finish line",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["tiny_toy_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -452,13 +452,13 @@
             {
                 "name": "Jetpack Trial",
                 "access_rules": [
-                    " "
+                    "jetpack"
                 ],
                 "sections": [
                     {
                         "name": "Find all the checkpoints using the Jetpack",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["jetpack_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -479,7 +479,7 @@
                     {
                         "name": "Complete the course",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["chase_the_grade_stars_enabled"],
                         "item_count": 1
                     }
                 ],
@@ -500,7 +500,7 @@
                     {
                         "name": "Complete the course",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["all_course_stars_enabled"],
                         "item_count": 1
                     }
                 ],

@@ -13,6 +13,7 @@ ITEM_MAPPING = {
 	[25] = {{"climb", "toggle"}},
 	[30] = {{"pogo", "toggle"}},
 	[31] = {{"tiny_toy", "toggle"}},
+	[32] = {{"jetpack", "toggle"}},
 	[100] = {{"gym_class", "toggle"}},
 	[200] = {{"playground", "toggle"}},
 	[300] = {{"school", "toggle"}},

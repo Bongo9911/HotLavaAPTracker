@@ -152,6 +152,14 @@
         "codes": "tiny_toy"
     },
     {
+        "name": "Jetpack",
+        "type": "toggle",
+        "img": "images/items/Trials/Jetpack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jetpack"
+    },
+    {
         "name": "XP Shard",
         "type": "toggle",
         "img": "images/items/Filler/XPShard.png",
