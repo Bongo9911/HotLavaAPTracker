@@ -91,7 +91,7 @@
                     },
                     {
                         "name": "Grab the golden pin",
-                        "access_rules": [],
+                        "access_rules": ["surf", "double_jump"],
                         "visibility_rules": ["collectible_stars_enabled"],
                         "item_count": 1
                     },

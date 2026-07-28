@@ -34,7 +34,7 @@
                     },
                     {
                         "name": "Reach a speed of 9",
-                        "access_rules": [],
+                        "access_rules": ["surf", "boost_jump"],
                         "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },

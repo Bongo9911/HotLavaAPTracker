@@ -40,7 +40,7 @@
                     },
                     {
                         "name": "Reach a speed of 4.5",
-                        "access_rules": [],
+                        "access_rules": ["boost_jump"],
                         "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
@@ -194,7 +194,7 @@
                     },
                     {
                         "name": "Reach a speed of 5.5",
-                        "access_rules": [],
+                        "access_rules": ["boost_jump"],
                         "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },

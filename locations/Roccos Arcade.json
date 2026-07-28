@@ -28,7 +28,7 @@
                     },
                     {
                         "name": "Complete in under 0115",
-                        "access_rules": [],
+                        "access_rules": ["$special"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
@@ -79,7 +79,7 @@
                     },
                     {
                         "name": "Complete in under 0045",
-                        "access_rules": [],
+                        "access_rules": ["$special"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
@@ -130,7 +130,7 @@
                     },
                     {
                         "name": "Complete in under 0120",
-                        "access_rules": [],
+                        "access_rules": ["$special"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
@@ -181,7 +181,7 @@
                     },
                     {
                         "name": "Complete in under 0045",
-                        "access_rules": [],
+                        "access_rules": ["$special"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
@@ -232,7 +232,7 @@
                     },
                     {
                         "name": "Complete in under 0050",
-                        "access_rules": [],
+                        "access_rules": ["$special"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
@@ -283,7 +283,7 @@
                     },
                     {
                         "name": "Complete in under 0035",
-                        "access_rules": [],
+                        "access_rules": ["boost_jump", "$slide_jump", "vault_jump"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },

@@ -283,7 +283,7 @@
                     },
                     {
                         "name": "Complete in under 0033",
-                        "access_rules": [],
+                        "access_rules": ["$special"],
                         "visibility_rules": ["time_stars_enabled"],
                         "item_count": 1
                     },
