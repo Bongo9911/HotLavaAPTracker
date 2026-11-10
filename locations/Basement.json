@@ -215,7 +215,7 @@
             {
                 "name": "Minecart Carnage",
                 "access_rules": [
-                    "climb,swing,wall_jump,crouch,surf"
+                    "climb,swing,wall_jump,crouch,surf,wind_tunnels"
                 ],
                 "sections": [
                     {

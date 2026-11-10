@@ -11,6 +11,7 @@ ITEM_MAPPING = {
 	[23] = {{"wall_jump", "toggle"}},
 	[24] = {{"swing", "toggle"}},
 	[25] = {{"climb", "toggle"}},
+	[26] = {{"wind_tunnels", "toggle"}},
 	[30] = {{"pogo", "toggle"}},
 	[31] = {{"tiny_toy", "toggle"}},
 	[32] = {{"jetpack", "toggle"}},

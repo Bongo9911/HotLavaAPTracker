@@ -38,11 +38,12 @@
                             ],
                             [
                                 "crouch",
+                                "surf",
+                                "wall_jump",
+                                "wind_tunnels",
                                 "grab",
                                 "climb",
-                                "swing",
-                                "surf",
-                                "wall_jump"
+                                "swing"
                             ]
                         ]
                     }
@@ -91,6 +92,7 @@
                                 "crouch",
                                 "surf",
                                 "wall_jump",
+                                "wind_tunnels",
                                 "grab",
                                 "climb",
                                 "swing"

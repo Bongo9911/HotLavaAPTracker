@@ -22,3 +22,13 @@ end
 function special()
     return ANY("double_jump", "boost_jump", slide_jump, "vault_jump")
 end
+
+function wind_tunnel_mastery()
+    if HAS("wind_tunnels") == ACCESS_NORMAL then
+        return ACCESS_NORMAL
+    end
+    if ALL("double_jump", "vault_jump", ANY("boost_jump", slide_jump)) == ACCESS_NORMAL then
+        return ACCESS_SEQUENCEBREAK
+    end
+    return ACCESS_NONE
+end

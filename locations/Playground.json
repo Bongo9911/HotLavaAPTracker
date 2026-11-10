@@ -290,7 +290,7 @@
                     {
                         "name": "Tag your sister",
                         "access_rules": [],
-                        "visibility_rules": ["enabled_checks_all"],
+                        "visibility_rules": ["challenge_stars_enabled"],
                         "item_count": 1
                     },
                     {

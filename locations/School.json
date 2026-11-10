@@ -62,7 +62,7 @@
             {
                 "name": "Middle School Mischief",
                 "access_rules": [
-                    "climb,swing,crouch,wall_jump"
+                    "climb,swing,crouch,wall_jump,wind_tunnels"
                 ],
                 "sections": [
                     {
@@ -215,7 +215,7 @@
             {
                 "name": "Freshman Frenzy",
                 "access_rules": [
-                    "crouch,wall_jump,$ANY|double_jump|climb,swing,surf"
+                    "crouch,wall_jump,$ANY|double_jump|climb,swing,surf,wind_tunnels"
                 ],
                 "sections": [
                     {

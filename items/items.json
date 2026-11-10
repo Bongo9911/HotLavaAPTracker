@@ -104,6 +104,14 @@
         "codes": "wall_jump"
     },
     {
+        "name": "Wind Tunnels",
+        "type": "toggle",
+        "img": "images/items/Abilities/Standard/WindTunnels.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wind_tunnels"
+    },
+    {
         "name": "Double Jump",
         "type": "toggle",
         "img": "images/items/Abilities/Special/Double Jump.png",
